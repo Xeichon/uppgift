@@ -1,5 +1,6 @@
-import java.util.Scanner;
 import org.junit.jupiter.api.Test;
+
+import java.util.Scanner;
 
 public class TextReader {
 	Scanner scanner = new Scanner (System.in);
